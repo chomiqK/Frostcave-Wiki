@@ -1,0 +1,53 @@
+# Zasady backupów
+
+{% hint style="info" %}
+Masz 48 godzin na zgłoszenie się po backupa od momentu zdarzenia.
+{% endhint %}
+
+{% hint style="danger" %}
+Aby otrzymać backup, wymagane jest nagranie
+{% endhint %}
+
+### **Wymagania dotyczące nagrania:**
+
+Nagranie musi posiadać:
+
+* Widoczną date, wraz z godziną.
+* Widoczna informacja że klip jest nagrywany na serwerze Frostcave.pl
+* Przebieg całego zdarzenia (chwila przed, w trakcie i chwile po utraceniu itemów)
+* Nagranie musi być czytelne
+* Nagranie musi być z perspektywy gracza który zgłasza się po backupa (nagranie z perspektywy innego gracza nie wchodzi w gre)
+* Nagrania z replaymoda nie są brane pod uwagę.
+
+{% hint style="info" %}
+Zalecamy używania programu <https://medal.tv> do nagrywania rozgrywki.
+{% endhint %}
+
+### **Sytuacje w których przyznajemy backupa. Jeśli gracz:**
+
+* Zginie przez cheatera (osoba która używa niedozwolonych modyfikacji)
+* Zginie przez nielegalnego trapa
+* Zginie przez błąd serwera, co spowoduje utrate itemów
+* Otrzyma niesłusznego bana, przez co zginie lub straci itemy
+* Zostanie zabity przez gracza wykorzystującego błąd serwera
+* Straci itemy przez administratora, wykorzystującego uprawnienia
+
+### Trap uznajemy za nielegalny kiedy:
+
+* Nie można się wydostać za pomocą enderperły
+* Nie można niszczyć bloków w celu wydostania się
+* Trap znajduje się na terenie działki / gildii / państwa / klanu.
+* Do działania trapu wykorzystywany jest błąd serwera (exploit, bug itd.)
+
+### Sytuacje w których nie przyznajemy backupa:
+
+* Gracz utraci itemy w sposób losowy (np. lagi przez swój internet, nagłe wyłączenie prądu itp.)
+* Brak wiarygodnego nagrania dowodu w postaci nagrania, a nie ma decyzji administracji o globalnym lub inwidualnym backupie.
+
+{% hint style="warning" %}
+Jak zostaniesz wpisany do backupa, administrator może wymagać twojej obecności na serwerze. Po trzech nieudanych wezwaniach twój backup zostanie anulowany, a ticket zamknięty.
+{% endhint %}
+
+{% hint style="danger" %}
+Jak z danego dnia i godziny backup jest niedostępny, administrator ma prawo przywrócić najbliższy czasowo backup, który zawiera możliwie najbardziej zbliżone itemy.
+{% endhint %}
