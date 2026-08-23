@@ -1,0 +1,36 @@
+# Zakazane modyfikacje
+
+**Na naszym serwerze obowiązuje kategoryczny zakaz używania modyfikacji, które dają nieuczciwą przewagę w rozgrywce.**
+
+{% hint style="danger" %}
+Każda modyfikacja, która daje nieuczciwą przewagę w rozgrywce, jest zakazana. Nawet jak nie została wymieniona poniżej.
+{% endhint %}
+
+***
+
+## **Przykłady zakazanych modyfikacji:**
+
+* **X-Ray** - umożliwia widzenie przez bloki i łatwe lokalizowanie rud, jaskiń oraz struktur.
+* **KillAura** - automatycznie atakuje pobliskie moby lub graczy bez konieczności celowania.
+* **Aimbot** - automatycznie celuje w przeciwników, głównie w trybach PvP.
+* **Fly** - pozwala latać bez posiadania elytry lub trybu kreatywnego.
+* **SpeedHack** - zwiększa prędkość poruszania się ponad normalne limity gry.
+* **NoClip** - umożliwia przechodzenie przez bloki i ściany.
+* **Reach** - zwiększa zasięg ataku ponad standardowy dystans.
+* **ESP / WallHack** - podświetla graczy, moby lub przedmioty przez ściany.
+* **NoFall** - eliminuje obrażenia od upadku.
+* **AntiKnockback** - blokuje odrzut od ciosów, wybuchów lub strzał.
+* **FastBreak** - przyspiesza niszczenie bloków.
+* **FastPlace** - pozwala stawiać bloki szybciej niż normalnie.
+* **AutoArmor** - automatycznie zakłada najlepszy dostępny pancerz.
+* **AutoTotem** - automatycznie umieszcza totem nieśmiertelności w drugiej ręce, gdy gracz jest zagrożony.
+* **Scaffold** - automatycznie buduje mosty pod graczem, pozwalając poruszać się po powietrzu bez ryzyka spadnięcia.
+* **Timer** - przyspiesza działanie gry po stronie klienta, co wpływa na szybkość ruchu, ataków i animacji.
+* **Blink** - opóźnia wysyłanie pakietów do serwera, przez co gracz „teleportuje się” po mapie.
+* **Phase** - umożliwia przenikanie przez określone typy bloków lub bariery.
+* **ChestESP** - podświetla skrzynie, beczki i inne kontenery, ułatwiając ich odnalezienie.
+* **Tracers** - rysuje linie prowadzące do graczy, mobów lub przedmiotów, nawet przez ściany.
+* **AutoFish** - automatycznie łowi ryby, reagując na każde branie bez udziału gracza.
+* **AutoBuild** - samodzielnie stawia bloki według wybranego schematu lub wzoru.
+* **Freecam** - pozwala odłączyć kamerę od postaci i latać nią po mapie bez poruszania graczem.
+* **Jesus** - umożliwia chodzenie po powierzchni wody lub lawy jak po zwykłym bloku.
