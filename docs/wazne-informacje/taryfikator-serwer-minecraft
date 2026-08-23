@@ -1,0 +1,17 @@
+# Taryfikator - serwer Minecraft
+
+{% hint style="warning" %}
+W wielu punktach w czasie kary jest określenie czasu, np. 2 godziny - 24 godziny (znaczy, od 2 godzin do 24 godzin). Wtedy czas kary zależy od rzeczywistej sytuacji.
+{% endhint %}
+
+{% hint style="info" %}
+Skrót "Perm" znaczy "Ban permanentny", co znaczy zablokowanie konta na zawsze.
+
+\------------------------------------------------------------------------------------------------------------
+
+Każda kara może zostać nałożona na IP. Tym, czy zostanie założona na IP, decyduje administrator.
+{% endhint %}
+
+<table><thead><tr><th width="239">Powód</th><th width="190">Typ kary (ban/mute/kick/warn)</th><th>Czas kary</th><th>Czas kary -Recydywa</th></tr></thead><tbody><tr><td>Obrażanie, wyzwiska, nadmierne przeklinanie</td><td>Mute</td><td>10 minut - 1 godzina</td><td>2 - 24 godziny</td></tr><tr><td>Nękanie, groźby karalne</td><td>Ban</td><td>3 - 30 dni</td><td>30 dni - perm</td></tr><tr><td>Treści rasistowskie, pornograficzne</td><td>Ban</td><td>10 dni</td><td>20 dni</td></tr><tr><td>Treści polityczne</td><td>Mute</td><td>10 godzin - 2 dni</td><td>3 dni</td></tr><tr><td>Upublicznianie danych osobowych (imię, nazwisko, nr. tel, dane wrażliwe)</td><td>Ban</td><td>14 - 30 dni</td><td>Permanentny</td></tr><tr><td>Podszywanie się pod użytkowników/administracje</td><td>Ban</td><td>7 dni</td><td>14 dni</td></tr><tr><td>Multikonta (powyżej 2 kont na jednym IP)</td><td>Ban</td><td>7 dni na wszystkie konta</td><td>Permanentny na wszystkie konta</td></tr><tr><td>Reklama</td><td>Mute/Ban</td><td>1 - 20 dni</td><td>40 dni</td></tr><tr><td>Nadużywanie systemu /helpop</td><td>Mute</td><td>1 - 10 godzin</td><td>1 dzien</td></tr><tr><td>Używanie modyfikacji ułatwiających rozgrywkę</td><td>Ban</td><td>3 - 15 dni</td><td>15 dni</td></tr><tr><td>Współpraca z cheaterem</td><td>Ban</td><td>1 - 5 dni</td><td>10 dni</td></tr><tr><td>Wykorzystywanie błędów</td><td>Ban</td><td>30 dni</td><td>Permanentny</td></tr><tr><td>Działanie na szkodę serwera (boty, ataki, destabilizacja)</td><td>Ban</td><td>Permanentny</td><td>-</td></tr><tr><td>Omijanie kar nałożonych przez administracje</td><td>Ban</td><td>10 dni</td><td>30 dni</td></tr><tr><td>Wulgarna / niestosowna nazwa konta</td><td>Warn + zmiana nicku/Ban</td><td>Permanentny</td><td>-</td></tr><tr><td>Celowe niszczenie gospodarki serwera</td><td>Ban</td><td>Permanentny</td><td>-</td></tr><tr><td>Griefing</td><td>Ban/Warn</td><td>1 - 5 dni</td><td>7 dni</td></tr><tr><td>Brak kultury</td><td>Mute</td><td>30 minut - 3 godziny</td><td>10 godzin</td></tr><tr><td>Sprzedawanie rzeczy z serwera za prawdziwe pieniądze</td><td>Ban</td><td>Permanentny</td><td>-</td></tr><tr><td>Oszukiwanie</td><td>Ban</td><td>20 - 365 dni</td><td>1 dzień</td></tr><tr><td>Nadmierne proszenie o rzeczy materialne administracji</td><td>Wyciszenie</td><td>5 minut</td><td>10 minut</td></tr><tr><td>Niestosowne budowle</td><td>Ban</td><td>3 dni</td><td>7 dni</td></tr><tr><td>Farmienie na multikontach</td><td>Ban</td><td>5 dni (tylko multikonto)</td><td>15 dni (oba konta)</td></tr></tbody></table>
+
+<mark style="color:$info;">Czas kary, której nie ma ujętej w taryfikatorze, są decydowane przez administratora.</mark>
